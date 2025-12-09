@@ -1,0 +1,29 @@
+name: nyc-311-rainfall-etl-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - geopandas
+  - shapely
+  - pgeocode # Not used
+  - matplotlib
+  - seaborn
+  - missingno
+  - pygraphviz
+  - duckdb # Might not use
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+      - polars
+      - great_expectations
+      - pandera
+      - skrub # Might never use
+      - frictionless
+      - whylog # Not needed
+      - rapidfuzz
+      - pytest
+      - apache-airflow[postgres,google]
+      - erdantic
