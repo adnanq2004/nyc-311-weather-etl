@@ -61,4 +61,4 @@ This repository contains a monthly ETL (Extract, Transform, Load) pipeline for i
 
 
 ##### In this section we used Tableau to visualize our data and represent our KPIs using different graphs, such as bar charts, heat maps, density maps, and others, and organized them into a dashboard for user convenience.
-##### Here is the link to the functioning visualization: 
+##### Here is the link to the functioning visualization: https://public.tableau.com/app/profile/adrian.garcia1787/viz/Weather311ComplaintsMap/Dashboard2?publish=yes
