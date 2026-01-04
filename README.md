@@ -4,13 +4,12 @@ This repository contains a monthly ETL (Extract, Transform, Load) pipeline for i
 
 
 
-
-
 ### Project Description
 
 
 
-##### In this project, we aimed to create a data warehouse, focusing on complaint data from the NYC 311 Service relating to water problems, and weather reports over NYC from the Open Meteo API. We followed the Kimball Life Cycle methodology, starting with Project Planning, then gathering Business Requirements, then Dimensional Modeling, deciding on the Technical Architecture, performing ETL Programming, and finally Designing and Developing the Business Intelligence Application.
+##### In this project, we aimed to create a data warehouse, focusing on complaint data from the NYC 311 Service relating to water problems, and weather reports over NYC from the Open Meteo API. We followed the Kimball Life Cycle methodology, starting with Project Planning, then gathering Business Requirements, then Dimensional Modeling, deciding on the Technical Architecture, performing ETL Programming, and finally Designing and Developing the Business Intelligence Application. 
+For more detailed information please refer to the report.pdf.
 
 
 
